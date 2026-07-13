@@ -1,4 +1,4 @@
-print ("==== TEHTÄVÄLISTA v2 ====")
+print ("==== TEHTÄVÄLISTA (korjattu) ====")
 
 print()
 print("1. Lisää tehtävä")
