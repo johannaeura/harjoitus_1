@@ -6,3 +6,5 @@ print("3. Lopeta")
 
 valinta = input("Valitse: ")
 print(f"Valitsit vaihtoehdon {valinta}")
+
+print ("Testaan Git diff -komentoa")
