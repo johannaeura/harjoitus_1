@@ -1,4 +1,4 @@
-print ("==== TEHTÄVÄLISTA ====")
+print ("==== OMA TEHTÄVÄLISTA ====")
 print()
 print("1. Lisää tehtävä")
 print("2. Näytä tehtävät")
